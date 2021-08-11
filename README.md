@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm LuKres</h1>
-<h3 align="center">Pupil of the Letovo school from Moscow</h3>
+<h1 align="center">Hi 👋, I'm LuKresXD</h1>
+<h3 align="center">Pupil of the Letovo school from MoscowA passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Platformer game**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukresxd&label=Profile%20views&color=0061ff&style=flat" alt="lukresxd" /> </p>
+
+- 🔭 I’m currently working on **a platformer game about bitcoin mining**
 
 - 🌱 I’m currently learning **Unity**
 
-- 📫 How to reach me **lures006@gmail.com**
+- 📫 How to reach me **lukres006@gmail.com**
+
+- ⚡ Fun fact **I've been coding since 2019 and running GitHub since 2021**
 
 
 <h3 align="left">Languages and Tools:</h3>
