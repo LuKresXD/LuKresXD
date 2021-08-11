@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LuKresXD</h1>
-<h3 align="center">Pupil of the Letovo school from MoscowA passionate frontend developer from India</h3>
+<h3 align="center">Pupil of the Letovo school from Moscow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukresxd&label=Profile%20views&color=0061ff&style=flat" alt="lukresxd" /> </p>
 
